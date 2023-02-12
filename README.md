@@ -1,6 +1,6 @@
 # CS-7641-HW_1-Yu_Pang
 # This is HW1 for CS 761. 
-# The purpose of this homework is employing decision trees, neural networks, boosting, support vector machines (SVM), and k-nearest neighbors (KNN) to analyze and compare # two classification problems.
+# The purpose of this homework is employing decision trees, neural networks, boosting, support vector machines (SVM), and k-nearest neighbors (KNN) to analyze and compare   two classification problems.
 #
 # 1. Dataset Source
 # Classification 1 (Diabetes Dataset)
